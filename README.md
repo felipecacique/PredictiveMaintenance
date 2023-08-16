@@ -22,7 +22,7 @@ Key findings and conclusions of the study include:
 
 - Application of Data Science: The study demonstrates how data analysis and data science techniques can support decision-making in the context of oil management, replacement, and degradation monitoring. These techniques provide insights that aid in optimizing fleet performance and minimizing environmental impact.
 
-In summary, the paper emphasizes the use of machine learning and data analysis to predict the optimal time for engine oil replacement. By monitoring various oil parameters and employing SVR models, the authors demonstrate the feasibility of extending oil change intervals while maintaining engine performance and minimizing environmental consequences.
+In summary, the work emphasizes the use of machine learning and data analysis to predict the optimal time for engine oil replacement. By monitoring various oil parameters and employing SVR models, the authors demonstrate the feasibility of extending oil change intervals while maintaining engine performance and minimizing environmental consequences.
 
 
 ## Code details
