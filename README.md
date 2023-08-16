@@ -2,7 +2,7 @@
 
 ## A briethly overview about the project and the published paper
 
-This paper focuses on the application of machine learning in the analysis of engine oil degradation data with the goal of predicting the optimal time for oil replacement. The study aims to assess the feasibility of extending oil change intervals by considering the actual properties of lubricants and their degradation limits, rather than relying solely on manufacturer-recommended operating hours. This approach could lead to reduced maintenance costs, improved asset productivity, and reduced environmental impact due to fewer oil changes.
+This work focuses on the application of machine learning in the analysis of engine oil degradation data with the goal of predicting the optimal time for oil replacement. The study aims to assess the feasibility of extending oil change intervals by considering the actual properties of lubricants and their degradation limits, rather than relying solely on manufacturer-recommended operating hours. This approach could lead to reduced maintenance costs, improved asset productivity, and reduced environmental impact due to fewer oil changes.
 
 The study emphasizes the use of data analysis and data science techniques to achieve these goals. The authors collected and analyzed oil samples from two mining equipment engines, TE8037 and TE8038. They monitored various oil properties such as viscosity, total base number (TBN), oxidation, soot content, sulfation, and nitration over time to assess oil degradation. By studying these parameters, they aimed to predict the optimal time for oil replacement and determine if the engines could operate effectively beyond the manufacturer-recommended intervals.
 
