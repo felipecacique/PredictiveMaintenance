@@ -1,6 +1,6 @@
-# Predictive Maintenance - Remaining useful life of mining machines
+# Predictive Maintenance - Remaining Useful Life of Mining Machines
 
-## A briethly overview 
+## A brief overview 
 
 This work focuses on the application of machine learning in the analysis of engine oil degradation data with the goal of predicting the optimal time for oil replacement. The study aims to assess the feasibility of extending oil change intervals by considering the actual properties of lubricants and their degradation limits, rather than relying solely on manufacturer-recommended operating hours. This approach could lead to reduced maintenance costs, improved asset productivity, and reduced environmental impact due to fewer oil changes.
 
