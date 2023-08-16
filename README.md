@@ -22,12 +22,12 @@ Key findings and conclusions of the study include:
 
 - Application of Data Science: The study demonstrates how data analysis and data science techniques can support decision-making in the context of oil management, replacement, and degradation monitoring. These techniques provide insights that aid in optimizing fleet performance and minimizing environmental impact.
 
-In summary, the paper emphasizes the use of machine learning and data analysis to predict the optimal time for engine oil replacement. By monitoring various oil parameters and employing SVR models, the authors demonstrate the feasibility of extending oil change intervals while maintaining engine performance and minimizing environmental consequences.
+In summary, the work emphasizes the use of machine learning and data analysis to predict the optimal time for engine oil replacement. By monitoring various oil parameters and employing SVR models, the authors demonstrate the feasibility of extending oil change intervals while maintaining engine performance and minimizing environmental consequences.
 
 
 ## Code details
 
-This project estimates the **remaining useful life of mining machines** by training and evaluating **machine learning models** on various **oil compound properties**. Here's a breakdown of the code and its functionality:
+This project estimates the **remaining useful life of mining machines** by training and evaluating **machine learning models** on various **oil compound properties**. Here's a breakdown of the [code](https://github.com/felipecacique/PredictiveMaintenance/blob/main/remaining_useful_life.ipynb) and its functionality:
 
 - Importing Libraries:
   - The code begins by importing necessary libraries such as **numpy**, **pandas**, **matplotlib.pyplot**, and **seaborn**.
@@ -55,5 +55,5 @@ This project estimates the **remaining useful life of mining machines** by train
 This code serves as an example of **how to estimate the remaining useful life** of mining machines using machine learning techniques and provides insights into the **performance of different algorithms on predicting failure points**.
 
 
-This code was written in a partnership with **Cid Clay Quirino** and **Felipe Duarte Pedra**, for the purpouse of contributing to a paper entitled **"MACHINE LEARNING NA PREVISÃO DE HORAS DE SUBSTITUIÇÃO DE ÓLEO DO MOTOR_ FOCO EM IMPACTO AMBIENTAL"**. The **paper was published** in the **36º Brazilian Maintenance Congress** in 2021.
+This code was written in partnership with **Cid Clay Quirino** and **Felipe Duarte Pedra**, for the purpose of contributing to a **[paper](https://github.com/felipecacique/PredictiveMaintenance/blob/main/MACHINE%20LEARNING%20NA%20PREVIS%C3%83O%20DE%20HORAS%20DE%20SUBSTITUI%C3%87%C3%83O%20DE%20%C3%93LEO%20DO%20MOTOR%20-%20FOCO%20EM%20IMPACTO%20AMBIENTAL.pdf)** entitled **"MACHINE LEARNING NA PREVISÃO DE HORAS DE SUBSTITUIÇÃO DE ÓLEO DO MOTOR_ FOCO EM IMPACTO AMBIENTAL"**. The **paper was published** in the **36º Brazilian Maintenance Congress** in 2021.
 
