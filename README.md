@@ -8,6 +8,10 @@ The study emphasizes the use of data analysis and data science techniques to ach
 
 Machine learning, particularly Support Vector Regression (SVR), was employed to model the degradation patterns of these parameters. The authors compared the performance of linear and polynomial models in predicting the parameter values over time. They used the Mean Absolute Error (MAE) as a metric to evaluate the accuracy of their models.
 
+To serve as an example, the image below shows the training and testing samples for the element TBN of the TE8038 motor, and the projection line using the SVR. The critical point for oil replacement, in this case, would be in 729 hours, which is the intersection point between the projection line and the degradation limit (threshold).
+
+<img src="https://github.com/felipecacique/PredictiveMaintenance/blob/main/graphs/motor_TE8038__carga_32__element_TBN__model_svm_linear__train_size_20__valid_size_14.png" />
+
 Key findings and conclusions of the study include:
 
 - Benefits of Extended Oil Change Intervals: The study demonstrates the potential to extend oil change intervals by up to 50% without compromising engine performance. This extension could lead to increased availability, reduced maintenance costs, and decreased environmental impact.
